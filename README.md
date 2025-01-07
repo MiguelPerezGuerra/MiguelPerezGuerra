@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hola, soy Miguel Pérez 👋 </h1>
 </div>
-<img src="https://github.com/user-attachments/assets/1700cb4e-193d-41b6-ac85-510b3fd1b675">
+<img src="https://github.com/user-attachments/assets/4ec97bdb-38d2-4d17-bc5b-d1092f72020b">
 
 ## Sobre mi
 
